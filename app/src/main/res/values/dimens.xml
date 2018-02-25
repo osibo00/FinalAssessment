@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <dimen name="activity_padding">16dp</dimen>
+    <dimen name="card_elevation">4dp</dimen>
+    <dimen name="itemview_size">100dp</dimen>
+    <dimen name="text_size">25sp</dimen>
+    <dimen name="zero_dp">0dp</dimen>
 </resources>

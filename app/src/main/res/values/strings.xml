@@ -6,4 +6,10 @@
     <string name="enter_username">Please enter a username.</string>
     <string name="enter_password">Please enter a password.</string>
     <string name="contains_username">Password cannot contain username.</string>
+    <string name="terrier">Terrier</string>
+    <string name="spaniel">Spaniel</string>
+    <string name="retriever">Retriever</string>
+    <string name="poodle">Poodle</string>
+    <string name="what_kind_dog">What kind of dog would you like to see, \u0020</string>
+    <string name="sign_out">Sign Out</string>
 </resources>

@@ -72,6 +72,7 @@ public class RetrofitFactory extends AbstractRetrofitFactory {
                     List<String> imageList = response.body().getMessage();
                     specificImagesListener.specificImageListCallBack(imageList);
                     Log.d(TAG, "onResponse: listSize=" + imageList.size());
+                    Log.d(TAG, "onResponse: " + imageList.get(0));
                 }
             }
 
